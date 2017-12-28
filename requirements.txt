@@ -1,0 +1,5 @@
+jpype1
+requests
+javaobj-py3
+flask
+
